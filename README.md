@@ -1,47 +1,54 @@
 # Hi, I'm Devraj Sah 👋
 
-### Software Engineer | Backend Development | Digital Signatures & Secure Systems
+### Software Engineer | Backend Development | Digital Signatures & PKI
 
-I'm a Software Engineer focused on building practical software solutions, backend systems, and applications that solve real-world problems. I work with Python, Django, databases, REST APIs, and deployment technologies, with an interest in digital signatures, PKI, OCR, and secure software systems.
+I’m a software engineer passionate about building reliable backend systems, secure digital solutions, and practical applications that solve real-world problems.
 
-I enjoy solving technical challenges, building reliable applications, and collaborating on meaningful projects.
+I work primarily with Python and Django, designing REST APIs, managing databases, deploying applications with Docker and Linux, and developing systems involving digital signatures, OCR, and background processing.
 
-- 💻 **Backend Development:** Python, Django, REST APIs
-- 🗄️ **Databases & Processing:** PostgreSQL, MySQL, Redis, Celery
-- 🔐 **Security & PKI:** Digital signatures and certificate-based systems
-- 🐳 **Deployment & Infrastructure:** Docker, Linux
-- 🖥️ **Application Development:** JavaScript, HTML, CSS, desktop applications
-- 🤝 **Open to:** Freelance projects, collaborations, and interesting software engineering opportunities
+- 🔭 **Working on:** Backend systems, digital signatures, and document processing
+- 🌱 **Interested in:** Scalable architectures, application security, and automation
+- 🤝 **Open to:** Freelance projects, collaborations, and software engineering opportunities
+- 💬 **Ask me about:** Python, Django, REST APIs, PostgreSQL, Docker, and PKI
+- 📫 **Email:** [anywheredevraj@gmail.com](mailto:anywheredevraj@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages & Web Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs**
+### Backend & APIs
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Databases & Caching**
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools & Infrastructure**
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Specialized Areas
+
+- 🔐 Public Key Infrastructure (PKI) and digital signatures
+- 📄 PDF signing and certificate verification
+- 🧠 OCR and document/result processing
+- ⚙️ Background jobs and asynchronous task processing
+- 🚀 Backend deployment and Linux server administration
 
 ---
 
@@ -49,48 +56,80 @@ I enjoy solving technical challenges, building reliable applications, and collab
 
 ### 🔐 Digital Signature & PKI System
 
-Working with digital-signature and public-key infrastructure (PKI) systems, including certificate-based signing and verification workflows.
+A digital-signature solution focused on secure document signing and certificate-based verification.
 
-**Technologies:** Python · Django · Digital Certificates · PKI
+- Digital certificate and public-key management
+- PDF signing and signature verification workflows
+- Certificate handling and validation
+- Backend API development and integration
 
-### 📄 NEB OCR & Result Processing
+**Technologies:** Python, Django, PKI, Digital Certificates, REST APIs
 
-An OCR and result-processing project focused on extracting and processing examination-related data from images.
+### 🧠 NEB OCR & Result Processing
 
-**Technologies:** Python · Django · MySQL · OCR
+A document-processing system designed to work with large volumes of scanned examination documents and result data.
+
+- OCR-assisted document processing
+- Automated extraction and processing of marks
+- Database-driven result management
+- Efficient processing of large datasets
+
+**Technologies:** Python, Django, MySQL, OCR, Computer Vision
 
 ### 🖥️ DSigner Desktop Client
 
-A desktop application project focused on digital-signature workflows and integration with signing components.
+A desktop application supporting digital-signature workflows and communication with signing services.
 
-**Technologies:** Python · Desktop Application Development · Digital Signatures
+- Desktop signing interface
+- WebSocket-based communication
+- Windows certificate-store integration
+- Digital-signature workflow support
 
-> Explore my GitHub repositories for available source code and implementation details.
+**Technologies:** Python, CustomTkinter, PySide6, WebSockets, Windows Certificate Store
+
+> Explore my repositories for source code and additional projects.
+
+🔗 [View My GitHub Repositories](https://github.com/Devraj-Git?tab=repositories)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devraj-Git&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devraj-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devraj Sah's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-Git&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-Git&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Devraj-Git&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Devraj-Git&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with developers, collaborating on interesting projects, and discussing freelance software development opportunities.
+I'm interested in connecting with developers, businesses, and clients to build useful software and collaborate on challenging projects.
 
-- 💼 **LinkedIn:** [Devraj Sah](https://www.linkedin.com/in/dev-raj-sah-2161432a7)
-- 🐙 **GitHub:** [Devraj-Git](https://github.com/Devraj-Git)
-- 📧 **Email:** anywheredevraj@gmail.com
+<p align="left">
+  <a href="mailto:anywheredevraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Devraj Sah" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-raj-sah-2161432a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Devraj-Git">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
-Have a project idea or an interesting technical challenge? Feel free to connect!
+📧 **Email:** [anywheredevraj@gmail.com](mailto:anywheredevraj@gmail.com)
+
+💼 **LinkedIn:** [dev-raj-sah](https://www.linkedin.com/in/dev-raj-sah-2161432a7)
+
+💻 **GitHub:** [Devraj-Git](https://github.com/Devraj-Git)
 
 ---
 
 <p align="center">
-  <i>Building useful software, solving problems, and learning along the way.</i>
+  <i>Build thoughtfully. Solve real problems. Keep learning.</i>
 </p>
