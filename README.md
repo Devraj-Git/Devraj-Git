@@ -85,7 +85,7 @@ I'm open to connecting with developers, collaborating on interesting projects, a
 
 - 💼 **LinkedIn:** [Devraj Sah](https://www.linkedin.com/in/dev-raj-sah-2161432a7)
 - 🐙 **GitHub:** [Devraj-Git](https://github.com/Devraj-Git)
-- 📧 **Email:** [Add your professional email here]
+- 📧 **Email:** anywheredevraj@gmail.com
 
 Have a project idea or an interesting technical challenge? Feel free to connect!
 
